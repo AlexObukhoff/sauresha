@@ -1,10 +1,10 @@
 {
   "domain": "sauresha",
   "name": "SauresHA",
-  "documentation": "https://github.com/volshebniks/sauresha",
+  "documentation": "https://github.com/AlexObukhoff/sauresha",
   "requirements": [],
   "dependencies": [],
-  "version": "0.6.0",
+  "version": "0.6.4",
   "codeowners": [
   	"@volshebniks"
   ]
